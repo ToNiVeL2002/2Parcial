@@ -1,0 +1,10 @@
+.app-container{
+    background: rgba(24, 114, 46, 0.21);
+    width: 360px;
+    height: 366px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: space-around;
+
+}
