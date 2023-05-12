@@ -1,0 +1,46 @@
+.card-container{
+    width: 324px;
+    height: 93px;
+    padding: 10px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(196, 196, 196, 0.49);
+    border-radius: 7px;
+
+    color: #000000;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+
+}
+
+
+
+.card-container p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: rgba(0, 0, 0, 0.64);
+}
+
+.card-container span{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.precio-card{
+    display: flex;
+    justify-content: space-between;
+}
+
+.precio-card button{
+    width: 56px;
+    height: 28px;
+    background: #B82323;
+    box-shadow: 0px 4px 4px #DCDBDB;
+    border-radius: 2px;
+}
